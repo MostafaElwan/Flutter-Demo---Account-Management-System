@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "671394168374",
+    "firebase_url": "https://tododemo-4871e.firebaseio.com",
+    "project_id": "tododemo-4871e",
+    "storage_bucket": "tododemo-4871e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671394168374:android:fe66a8ee8e8a9b3a",
+        "android_client_info": {
+          "package_name": "com.elwan.accountmanagment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671394168374-823pke19ebh1ggh4iagpp6a6n6fed40o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdhZ55EtwKcHfCL1EoAGyt-YCUmFw7gP4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671394168374:android:bd738f96e7cd9d19",
+        "android_client_info": {
+          "package_name": "com.home.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671394168374-823pke19ebh1ggh4iagpp6a6n6fed40o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdhZ55EtwKcHfCL1EoAGyt-YCUmFw7gP4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
