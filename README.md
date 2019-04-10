@@ -24,7 +24,7 @@ This is another viewing for the home page while all accounts are retrieved from 
 <img src="./screenshots/3.jpg" height="400">   <img src="./screenshots/4.jpg" height="400">
 
 
-## Editor Page (as List View)
+## Editor Page
 
 From this page a new account can be added or an existing one can be updated, noting that data is being stored in local database if save button is being pressed after validating on mandatory fields.
 
@@ -38,6 +38,15 @@ Here is the home page but after changing language.
 
 <img src="./screenshots/6.jpg" height="400">
 
+
+## Home Page - Menu Options
+
+From this menu you can change languge, push data to server, retrieve data fro server or log out.
+
+Push data to Server: Data is being published on firestore database.
+Fetch data from Server: Data is being published on firestore database.
+
+<img src="./screenshots/7.jpg" height="400">
 
 
 ### Getting Started
