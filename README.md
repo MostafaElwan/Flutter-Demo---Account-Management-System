@@ -2,7 +2,45 @@
 
 This is the Account Managment flutter app for Study
 
-## Getting Started
+
+## Login Page
+
+This page is fully integrated with Firebase plateform to authenticate, create or reset password.
+
+<img src="./screenshots/1.jpg" height="400">
+
+
+## Home Page (as List View)
+
+This is the home page while all accounts are retrieved from the local database and displayed in the two mentioned lists, one for active accounts and another for inactive.
+
+<img src="./screenshots/2.jpg" height="400">
+
+
+## Home Page (as Tabs View)
+
+This is another viewing for the home page while all accounts are retrieved from the local database and displayed in the two mentioned tab views, one for active accounts and another for inactive.
+
+<img src="./screenshots/3.jpg" height="400">   <img src="./screenshots/4.jpg" height="400">
+
+
+## Editor Page (as List View)
+
+From this page a new account can be added or an existing one can be updated, noting that data is being stored in local database if save button is being pressed after validating on mandatory fields.
+
+<img src="./screenshots/5.jpg" height="400">
+
+
+
+## Home Page (Arabic loclization)
+
+Here is the home page but after changing language.
+
+<img src="./screenshots/6.jpg" height="400">
+
+
+
+### Getting Started
 
 This project is a starting point for a Flutter application.
 
